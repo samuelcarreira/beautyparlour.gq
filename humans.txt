@@ -1,6 +1,5 @@
 /* TEAM */
 	Develop & Design: Samuel Carreira
-	Twitter: @samcpt
 	Site: http://www.samuelcarreira.com
 
 /* THANKS */
