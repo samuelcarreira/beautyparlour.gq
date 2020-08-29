@@ -1,0 +1,15 @@
+/* TEAM */
+	Develop & Design: Samuel Carreira
+	Twitter: @samcpt
+	Site: http://www.samuelcarreira.com
+
+/* THANKS */
+	Everyone involved on open source development of the used tools
+
+/* SITE */
+	Language: Portuguese, English, Deutsch, French, Spanish
+	Last update: --in-development--
+	Standards: HTML5, CSS3, Vanilla JS
+	Doctype: HTML5
+	IDE: Brackets
+	Software: Photoshop, Illustrator, WebPGUI, Node.js, Brackets, a lot of Node packages

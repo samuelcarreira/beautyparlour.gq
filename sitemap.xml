@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <url>
+      <loc>http://www.beautyparlour.pt/</loc>
+      <lastmod>2016-10-04T19:32:37+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.00</priority>
+      <xhtml:link rel="alternate" hreflang="fr" href="http://www.beautyparlour.pt/fr/" />
+      <xhtml:link rel="alternate" hreflang="de" href="http://www.beautyparlour.pt/de/" />
+      <xhtml:link rel="alternate" hreflang="en" href="http://www.beautyparlour.pt/en/" />
+      <xhtml:link rel="alternate" hreflang="es" href="http://www.beautyparlour.pt/es/" />
+    </url>
+    <url>
+      <loc>http://www.beautyparlour.pt/cartao/index.html</loc>
+      <lastmod>2016-10-04T19:32:37+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+    <url>
+      <loc>http://www.beautyparlour.pt/en/</loc>
+      <lastmod>2016-10-04T19:32:37+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+	  <xhtml:link rel="alternate" hreflang="fr" href="http://www.beautyparlour.pt/fr/" />
+      <xhtml:link rel="alternate" hreflang="de" href="http://www.beautyparlour.pt/de/" />
+      <xhtml:link rel="alternate" hreflang="pt" href="http://www.beautyparlour.pt/" />
+      <xhtml:link rel="alternate" hreflang="es" href="http://www.beautyparlour.pt/es/" />
+    </url>
+    <url>
+      <loc>http://www.beautyparlour.pt/fr/</loc>
+      <lastmod>2016-10-04T19:32:37+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <xhtml:link rel="alternate" hreflang="de" href="http://www.beautyparlour.pt/de/" />
+      <xhtml:link rel="alternate" hreflang="pt" href="http://www.beautyparlour.pt/" />
+	  <xhtml:link rel="alternate" hreflang="en" href="http://www.beautyparlour.pt/en/" />
+      <xhtml:link rel="alternate" hreflang="es" href="http://www.beautyparlour.pt/es/" />
+    </url>
+    <url>
+      <loc>http://www.beautyparlour.pt/es/</loc>
+      <lastmod>2016-10-04T19:32:37+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+	  <xhtml:link rel="alternate" hreflang="fr" href="http://www.beautyparlour.pt/fr/" />
+      <xhtml:link rel="alternate" hreflang="de" href="http://www.beautyparlour.pt/de/" />
+      <xhtml:link rel="alternate" hreflang="pt" href="http://www.beautyparlour.pt/" />
+	  <xhtml:link rel="alternate" hreflang="en" href="http://www.beautyparlour.pt/en/" />
+    </url>
+    <url>
+      <loc>http://www.beautyparlour.pt/de/</loc>
+      <lastmod>2016-10-04T19:32:37+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+	  <xhtml:link rel="alternate" hreflang="fr" href="http://www.beautyparlour.pt/fr/" />
+      <xhtml:link rel="alternate" hreflang="pt" href="http://www.beautyparlour.pt/" />
+	  <xhtml:link rel="alternate" hreflang="en" href="http://www.beautyparlour.pt/en/" />
+      <xhtml:link rel="alternate" hreflang="es" href="http://www.beautyparlour.pt/es/" />
+    </url>
+  </urlset>
